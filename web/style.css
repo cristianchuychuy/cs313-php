@@ -1,0 +1,30 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: rgb(197, 118, 118);
+  margin-left: 20px;
+}
+
+.edge{
+   background-color: grey;
+   height: 200px; 
+}
+.edge1{
+    background-color: aquamarine;
+    text-align: center;
+    height: 50px; 
+ }
+
+ .edge2{
+    background-color: olivedrab;
+    text-align: center;
+    height: 50px; 
+ }
+
+ .edge3{
+    background-color: orangered;
+    text-align: center;
+    height: 50px; 
+ }
